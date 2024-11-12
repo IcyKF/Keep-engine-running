@@ -1,6 +1,6 @@
 # Keep-engine-running
 This will keep the engine running
-
+Put this code into qb-smallresources/client/hudcomponents.lua
 
 function engineLoop()
     local ped = PlayerPedId()
